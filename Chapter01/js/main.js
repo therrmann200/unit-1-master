@@ -1,0 +1,1 @@
+//JavaScript File created by Thomas Herrmann
